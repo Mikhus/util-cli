@@ -4,9 +4,13 @@
     "name": "Mykhailo Stadnyk",
     "email": "mikhus@gmail.com"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "deasync": "^0.1.4"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/Mikhus/util-cli.git"
   },
   "devDependencies": {
     "deasync": "^0.1.4",
